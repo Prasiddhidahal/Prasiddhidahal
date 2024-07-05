@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasiddhidahal" alt="prasiddhidahal" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+
 
 - 📫 How to reach me **prasiddhidahal1@gmail.com**
 
